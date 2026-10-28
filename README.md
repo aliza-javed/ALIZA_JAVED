@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img src="assets/github-profile-banner.png" alt="Liza Javed - AI Engineer and Python Developer" width="100%"/>
+<img src="assets/github-profile-banner.png" alt="Aliza Javed - AI Engineer and Python Developer" width="100%"/>
 
-# Hi, I'm Liza Javed 👋
+# Hi, I'm Aliza Javed 👋
 
 ### AI Engineer &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Generative AI
 
@@ -104,4 +104,5 @@ To grow as an AI Engineer, work on meaningful projects, contribute to open sourc
 ⭐ Thanks for visiting! If you like my work, drop a star on a repo.
 
 </div>
+
 
