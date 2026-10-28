@@ -8,8 +8,8 @@
 
 *Building intelligent solutions with Python, LLMs and automation. Turning ideas into real-world impact.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-Contact-34D399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-javed)
+[![Email](https://img.shields.io/badge/Email-Contact-34D399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizajaved783@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B1220?style=for-the-badge&logo=googlechrome&logoColor=34D399)](https://YOUR-PORTFOLIO-URL)
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliza-javed&color=34D399&style=flat-square&label=Profile+Views)
@@ -104,5 +104,6 @@ To grow as an AI Engineer, work on meaningful projects, contribute to open sourc
 ⭐ Thanks for visiting! If you like my work, drop a star on a repo.
 
 </div>
+
 
 
